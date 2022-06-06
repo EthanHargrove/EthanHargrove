@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Publicizing my private repositories soon, stay tuned.
+
 <!--
 **EthanHargrove/EthanHargrove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
