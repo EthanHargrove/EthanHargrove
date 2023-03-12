@@ -4,6 +4,7 @@
 
   - Personal portfolio website using Flask and Bootstrap.
   - Planetary System Modelling for Exoplanet Classification using Python.
+  - Sudoku Solver
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
