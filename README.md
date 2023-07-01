@@ -2,6 +2,7 @@
 
 <h4>What I'm working on:</h4>
 
+  - Reinforcement Learning For Spacecraft Navigation
   - Personal portfolio website using Flask and Bootstrap.
   - Planetary System Modelling for Exoplanet Classification using Python.
   - Sudoku Solver
