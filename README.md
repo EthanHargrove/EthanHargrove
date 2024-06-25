@@ -1,11 +1,10 @@
-<h2 align="center">MSc Computer Science Student</h3>
-
+<h2 align="center">Machine Learning</h3>
+<!--
 <h4>What I'm working on:</h4>
 
   - Personal portfolio website using Flask and React.
   - Sudoku Solver
-
-<!-- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
